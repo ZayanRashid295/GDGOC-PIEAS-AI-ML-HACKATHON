@@ -1,4 +1,4 @@
-# Infyma AI Hackathon 2025
+# GDGOC PIEAS AI/ML Hackathon 2025
 # Diabetes Detection through Retinopathy
 
 ## 🏆 Introduction
@@ -21,7 +21,7 @@ Download Dataset from link **https://www.kaggle.com/datasets/kushagratandon12/di
 
 ## 📜 Rules & Guidelines
 
-- **Team Size:** 2-4 members per team.
+- **Team Size:** 1-4 members per team.
 - **Duration:** 24-48 hours.
 - **Allowed Frameworks:** TensorFlow, PyTorch, OpenCV, FastAI, Scikit-Learn.
 - **Computational Resources:** Google Colab, Kaggle Kernels, or personal GPU setups.
@@ -39,6 +39,8 @@ Your model will be evaluated based on:
 - **Explainability (20%)**: Use of visualization techniques (Grad-CAM, SHAP).
 - **Computational Efficiency (20%)**: Inference speed, optimization techniques.
 - **Innovation (20%)**: Novel architectures, hybrid models.
+
+- **Ensure that you don't use any pretrained weights and develop a custom model to solve this problem.**
 
 ## 🛠 Technical Instructions
 
@@ -79,36 +81,6 @@ Recommended libraries: TensorFlow, PyTorch, OpenCV, Scikit-learn, Matplotlib, Pa
   - Demonstrate inference using Flask, FastAPI, or Streamlit.
   - Optimize inference using model quantization.
 
-## 🤖 Model Selection Hints
-
-💡 Choose the right architecture for better results:
-
-### **Beginner-Friendly CNNs**
-- **VGG-16 / VGG-19**: Simple but computationally heavy.
-- **ResNet-50**: Good baseline with residual connections.
-
-### **Optimized CNNs for Medical Images**
-- **EfficientNet-B3/B4**: Balances accuracy and efficiency.
-- **DenseNet-121**: Prevents feature loss, ideal for small datasets.
-
-### **Transformers for Advanced Users**
-- **Vision Transformer (ViT)**: Works well with large datasets.
-- **Swin Transformer**: Efficient for high-resolution medical images.
-
-### **Explainability & Segmentation Models**
-- **InceptionV3 + Grad-CAM**: Visualizes affected areas.
-- **U-Net + ResNet**: Ideal for detecting affected regions.
-
-### **Advanced Approaches**
-- **Hybrid CNN-Transformer Models**: Combines CNNs and self-attention mechanisms.
-- **Ensemble Learning**: Multiple models for improved accuracy.
-
-### **Additional Architecture Options**
-- **VGG-16**: Simple yet effective.
-- **InceptionV3**: Captures spatial hierarchies.
-- **MobileNet**: Lightweight, optimized for mobile devices.
-- **GoogleNet (Inception)**: Lower computational cost.
-
 ## 📥 Submission Instructions
 
 1. Submit by directly pushing it on your Github accounts. Add your Github account link in the submission form later provided by the organizing team.
@@ -117,7 +89,7 @@ Recommended libraries: TensorFlow, PyTorch, OpenCV, Scikit-learn, Matplotlib, Pa
 
 ## 📧 Support & Queries
 
-For any queries, contact **zayan.rashidrana@studentambassadors.com**. Mentors will be available for guidance throughout the hackathon.
+For any queries, contact **zayan.rana903@gmail.com**. Mentors will be available for guidance throughout the hackathon.
 
 ---
 
